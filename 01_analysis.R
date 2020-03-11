@@ -1,5 +1,5 @@
 # data pulled from package here: https://ramikrispin.github.io/coronavirus/
-# devtools::install_github("RamiKrispin/coronavirus") #note: use github version with daily data updates
+devtools::install_github("RamiKrispin/coronavirus") #note: use github version with daily data updates
 
 # Provides a tidy format dataset of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic. 
 # The raw data pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) 
